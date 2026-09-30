@@ -1,1 +1,2 @@
 mi aprendizaje
+Hoy aprendí el flujo: add - commit - putsh
