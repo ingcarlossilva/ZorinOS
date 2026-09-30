@@ -1,3 +1,3 @@
 mi aprendizaje
-Hoy aprendí el flujo: add - commit - putsh
+Hoy aprendí el flujo de: ("add - commit - push")
 Probando las ramas del proyecto
