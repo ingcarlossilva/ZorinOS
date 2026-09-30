@@ -1,3 +1,4 @@
 mi aprendizaje
 Hoy aprendí el flujo de: ("add - commit - push")
 Probando las ramas del proyecto
+hoy, sep. 30, continuamos con el aprendizaje
